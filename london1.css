@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(218, 94, 56, 0.639);
+    color:lightslategray;
+    padding:30px
+}
+img{
+  border:5px groove rgba(68, 132, 206, 0.605)
+}
+
+.Londen-titel {
+    font-family:'Courier New', Courier, monospace
+}
+a:link {
+    color:dimgray
+}
+a:visited {
+    color:bisque
+}
+
